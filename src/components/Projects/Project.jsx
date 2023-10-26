@@ -7,14 +7,14 @@ const Project = () => {
             <h2 className="section__title">Projects</h2>
             <span className="section__subtitle">Some of my Projects</span>
         <div className="project__container">
-            {/* <div className="project__content">
+            <div className="project__content">
                 <p>Portfolio Website</p>
-                <p>A professional portfolio website highlighting my skills and projects as a Full Stack Developer.
+                <p>A professional portfolio website highlighting my skills and projects as a Full Stack Developer. Built with React and Javascript.
                 </p>
          
-                <a href="https://github.com/ukadavid/react-portfolio" target="_blank" rel="noreferrer"><i class="uil social__github uil-github"></i></a>
-                <a href="https://react-portfolio-git-main-ukadavid.vercel.app/" target="_blank" rel="noreferrer"><i class="uil social__external-link uil-external-link-alt"></i></a>
-            </div>  */}
+                <a href="https://github.com/Aksheg/Portfolio" target="_blank" rel="noreferrer"><i class="uil social__github uil-github"></i></a>
+                <a href="https://portfolio-aksheg.vercel.app/" target="_blank" rel="noreferrer"><i class="uil social__external-link uil-external-link-alt"></i></a>
+            </div> 
             <div className="project__content">
                 <p>E-Aid</p>
                 <p>A health-tech app that connects users with verified medical experts, and also finds hospitals nearby and connects with medical professionals. Built with ReactJS, ExpressJS, NodeJS, JWT, MySQL, Postman, Docker, TypeScript, Git, and Github.
