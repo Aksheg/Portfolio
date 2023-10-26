@@ -1,4 +1,4 @@
-# Tobechukwu Uka Portfolio
+# Oluwasegun Akindele Portfolio
 
 ## Available Scripts
 
