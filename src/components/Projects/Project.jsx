@@ -8,6 +8,14 @@ const Project = () => {
             <span className="section__subtitle">Some of my Projects</span>
         <div className="project__container">
             <div className="project__content">
+                <p>FIPAY</p>
+                <p>An app roviders can connect to for a fast, simple, and secure pay with bank option.
+                </p>
+         
+                {/* <a href="https://github.com/Aksheg/Portfolio" target="_blank" rel="noreferrer"><i class="uil social__github uil-github"></i></a> */}
+                <a href="https://fipay.io/" target="_blank" rel="noreferrer"><i class="uil social__external-link uil-external-link-alt"></i></a>
+            </div> 
+            <div className="project__content">
                 <p>Portfolio Website</p>
                 <p>A professional portfolio website highlighting my skills and projects as a Full Stack Developer. Built with React and Javascript.
                 </p>

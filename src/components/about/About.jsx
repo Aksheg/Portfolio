@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import profilepic from "../../assets/Passport 1.jpeg";
-import CV from "../../assets/Oluwasegun Akindele CV.pdf"
+import CV from "../../assets/Oluwasegun Akindele's CV.pdf"
 import downloadicon from "../../assets/download.png"
 import Info from './Info'
 
